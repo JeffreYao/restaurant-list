@@ -10,11 +10,14 @@ for `windows` , `MacOS`
 
 
 # 安裝
-1.	下載`restaurant_list-master`資料夾
+1.	下載`restaurant-list`資料夾
     ```
     $ git clone https://github.com/JeffreYao/restaurant-list.git
     ```
-2.	利用終端機(Terminal)打開“restaurant_list-master“資料夾
+2.	利用終端機(Terminal)打開“`restaurant-list“資料夾
+    ```
+    cd \資料夾路徑
+    ```
 3.	安裝套件(在終端機中輸入)
     ```
     npm install 

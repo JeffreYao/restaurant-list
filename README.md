@@ -1,6 +1,7 @@
 # 我的餐廳清單
 - Alphacamp class 3 project:A1
 - 可搜尋並查看餐廳的詳細資訊
+- 新增測試
 
 # 介紹
 for `windows` , `MacOS`
